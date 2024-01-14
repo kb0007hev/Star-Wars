@@ -1,0 +1,36 @@
+.StarshipCard-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto; 
+    border: 2px solid black;
+    color: lightblue; 
+
+
+
+}
+
+.StarshipCard-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px; 
+    height: 300px;  
+    border: 2px solid black;
+    color: lightblue; 
+    background-color: darkgreen;
+    border-radius: 5%;
+    margin: 50px;
+    font-size: 25px; 
+    /* text-align: center; */
+}
+
+
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.loadingMessage{
+    font-size: 35px;
+}
