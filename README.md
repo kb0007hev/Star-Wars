@@ -1,8 +1,19 @@
-# React + Vite
+#  STAR WARS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Website
+> https://employee-book1.netlify.app/
 
-Currently, two official plugins are available:
+### MOTIVATION
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> This is a Per Scholas Project I built as part of a school project.
+
+### TECHNOLOGIES
+> HTML, CSS, Javascript, REACT, and Fetch was used to build this project. 
+
+### DESCRIPTION
+> This was a project aimed toward practicing API HTTP get requests in order to obtain data from an outside server. 
+
+
+### CREDITS
+
+> I'm giving credits to Per Scholas our school, and **Jade Del Rosario-Bell**, and **Oussama Hamani** our >school teachers 
