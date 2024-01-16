@@ -1,7 +1,7 @@
 #  STAR WARS
 
 ### Website
->  PENDING
+
 
 ### MOTIVATION
 
