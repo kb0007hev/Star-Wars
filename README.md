@@ -1,8 +1,5 @@
 #  STAR WARS
 
-### Website
-
-
 ### MOTIVATION
 
 > This is a Per Scholas Project I built as part of a school project.
